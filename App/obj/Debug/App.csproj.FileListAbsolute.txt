@@ -1,0 +1,5 @@
+C:\Users\Richard\Desktop\Software Engineer Code Test\App\bin\Debug\App.dll
+C:\Users\Richard\Desktop\Software Engineer Code Test\App\bin\Debug\App.pdb
+C:\Users\Richard\Desktop\Software Engineer Code Test\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\Software Engineer Code Test\App\obj\Debug\App.dll
+C:\Users\Richard\Desktop\Software Engineer Code Test\App\obj\Debug\App.pdb
